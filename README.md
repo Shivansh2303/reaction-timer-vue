@@ -1,7 +1,7 @@
-1. # reaction-timer
+1. # Reaction-timer
   
-2. ##Project setup
-  -- npm install
+2. ## Project setup
+  #### npm install
 
 3. ### Compiles and hot-reloads for development
 
