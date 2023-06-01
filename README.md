@@ -1,7 +1,7 @@
 1. reaction-timer
   
 2. Project setup
-
+  -- npm install
 
 3. ### Compiles and hot-reloads for development
 
